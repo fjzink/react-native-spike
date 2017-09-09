@@ -19,8 +19,8 @@ const styles = {
     height: 60,
     paddingTop: 15,
     shadowColor: '#000',
-    shadowOffset: { width: 0, height: 10 },
-    shadowOpacity: 0.5,
+    shadowOffset: { width: 0, height: 5 },
+    shadowOpacity: 0.2,
     elevation: 2,
     position: 'relative'
   },
