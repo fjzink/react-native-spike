@@ -19,13 +19,13 @@ const styles = {
     height: 60,
     paddingTop: 15,
     shadowColor: '#000',
-    shadowOffset: { width: 0, height: 5 },
-    shadowOpacity: 0.4,
+    shadowOffset: { width: 0, height: 10 },
+    shadowOpacity: 0.5,
     elevation: 2,
     position: 'relative'
   },
   textStyle: {
-    fontSize: 25
+    fontSize: 20
   }
 };
 
